@@ -6,7 +6,7 @@ setup(
     description='Provides a template filter to parse embed URLs and talk to embedly API',
     author='Bay Citizen',
     author_email='info@baycitizen.org',
-    url='http://github.com/BayCitizen/django-embedly/',
+    url='http://github.com/jlev/django-embedly/',
     packages=[
         'embeds',
     ],
