@@ -3,9 +3,9 @@ from setuptools import setup
 setup(
     name='django-embedly',
     version='0.2',
-    description='Provides a template filter to parse embed URLs and talk to embedly API',
-    author='Bay Citizen',
-    author_email='info@baycitizen.org',
+    description='Provides a template filter and cached view to parse embed URLs and talk to embedly API',
+    author='Josh Levinger, Bay Citizen',
+    author_email='josh.l@engagementlab.org, info@baycitizen.org',
     url='http://github.com/jlev/django-embedly/',
     packages=[
         'embeds',
